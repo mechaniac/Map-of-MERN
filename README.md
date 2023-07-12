@@ -2,13 +2,14 @@
 map of the MERN stack
 
 WORK IN PROGRESS
+
 NODE
 ![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-MERN/main/sheets/NodeJS.png?raw=true)
 
-MongoDB
+API
 ![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-MERN/main/sheets/MERN_API_01.png?raw=true)
 
-API
+MongoDB
 ![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-MERN/main/sheets/MERN_01.png?raw=true)
 Authentication
 ![alt text](https://raw.githubusercontent.com/mechaniac/Map-of-MERN/main/sheets/MERN_Authentication_01.png?raw=true)
